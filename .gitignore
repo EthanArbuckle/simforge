@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+DerivedData/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Project specific
+.simforge_config
+apps/*
+!apps/.gitkeep
+
+# IDE
+.vscode/
+.idea/ 
